@@ -1,0 +1,609 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Pingos~bswiki"
+        },
+        {
+            "id": "129.26.132.3"
+        },
+        {
+            "id": "Andre Engels"
+        },
+        {
+            "id": "212.39.99.43"
+        },
+        {
+            "id": "64.12.96.206"
+        },
+        {
+            "id": "81.220.100.104"
+        },
+        {
+            "id": "Traroth"
+        },
+        {
+            "id": "Hashar"
+        },
+        {
+            "id": "216.232.122.204"
+        },
+        {
+            "id": "80.133.127.137"
+        },
+        {
+            "id": "142.177.203.230"
+        },
+        {
+            "id": "Denny"
+        },
+        {
+            "id": "212.117.212.194"
+        },
+        {
+            "id": "212.59.40.2"
+        },
+        {
+            "id": "80.15.95.217"
+        },
+        {
+            "id": "Zanimum"
+        },
+        {
+            "id": "218.45.109.238"
+        },
+        {
+            "id": "80.15.95.21"
+        },
+        {
+            "id": "24.156.182.38"
+        },
+        {
+            "id": "Mir Harven"
+        },
+        {
+            "id": "193.198.135.37"
+        },
+        {
+            "id": "130.243.97.72"
+        },
+        {
+            "id": "Aurelius~bswiki"
+        },
+        {
+            "id": "24.65.31.105"
+        },
+        {
+            "id": "212.39.116.213"
+        },
+        {
+            "id": "213.164.241.16"
+        },
+        {
+            "id": "81.220.102.177"
+        },
+        {
+            "id": "158.222.228.224"
+        },
+        {
+            "id": "194.126.101.133"
+        },
+        {
+            "id": "80.126.9.240"
+        },
+        {
+            "id": "81.57.117.150"
+        },
+        {
+            "id": "62.212.110.113"
+        }
+    ],
+    "links": [
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "129.26.132.3"
+        },
+        {
+            "weight": 5,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Andre Engels"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "212.39.99.43"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "64.12.96.206"
+        },
+        {
+            "weight": 3,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "81.220.100.104"
+        },
+        {
+            "weight": 20,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Traroth"
+        },
+        {
+            "weight": 6,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Hashar"
+        },
+        {
+            "weight": 4,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "216.232.122.204"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "80.133.127.137"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "142.177.203.230"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "212.59.40.2"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "80.15.95.217"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Zanimum"
+        },
+        {
+            "weight": 5,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "212.117.212.194"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "218.45.109.238"
+        },
+        {
+            "weight": 2,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "24.156.182.38"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Mir Harven"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "193.198.135.37"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "130.243.97.72"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "Aurelius~bswiki"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "24.65.31.105"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "212.39.116.213"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "213.164.241.16"
+        },
+        {
+            "weight": 2,
+            "year": 2003,
+            "source": "Pingos~bswiki",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "129.26.132.3",
+            "target": "Andre Engels"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "129.26.132.3",
+            "target": "212.39.99.43"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "129.26.132.3",
+            "target": "64.12.96.206"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "129.26.132.3",
+            "target": "81.220.100.104"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "212.39.99.43"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "64.12.96.206"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "81.220.100.104"
+        },
+        {
+            "weight": 2,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "Traroth"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "142.177.203.230"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "Hashar"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "212.117.212.194"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "218.45.109.238"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Andre Engels",
+            "target": "62.212.110.113"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.39.99.43",
+            "target": "64.12.96.206"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.39.99.43",
+            "target": "81.220.100.104"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "64.12.96.206",
+            "target": "81.220.100.104"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "212.59.40.2"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "216.232.122.204"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "80.15.95.217"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "Traroth"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "81.220.100.104",
+            "target": "62.212.110.113"
+        },
+        {
+            "weight": 5,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "Hashar"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "216.232.122.204"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "142.177.203.230"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "Denny"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "Zanimum"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "213.164.241.16"
+        },
+        {
+            "weight": 2,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Traroth",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Hashar",
+            "target": "142.177.203.230"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Hashar",
+            "target": "212.117.212.194"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Hashar",
+            "target": "218.45.109.238"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Hashar",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "216.232.122.204",
+            "target": "80.133.127.137"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "216.232.122.204",
+            "target": "212.59.40.2"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "216.232.122.204",
+            "target": "80.15.95.217"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "216.232.122.204",
+            "target": "213.164.241.16"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "216.232.122.204",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "218.45.109.238"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "158.222.228.224"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "194.126.101.133"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "80.126.9.240"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.117.212.194",
+            "target": "81.57.117.150"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "212.59.40.2",
+            "target": "80.15.95.217"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "218.45.109.238",
+            "target": "80.15.95.21"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "80.15.95.21",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "Mir Harven",
+            "target": "193.198.135.37"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "213.164.241.16",
+            "target": "81.220.102.177"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "158.222.228.224",
+            "target": "194.126.101.133"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "158.222.228.224",
+            "target": "80.126.9.240"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "158.222.228.224",
+            "target": "81.57.117.150"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "194.126.101.133",
+            "target": "80.126.9.240"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "194.126.101.133",
+            "target": "81.57.117.150"
+        },
+        {
+            "weight": 1,
+            "year": 2003,
+            "source": "80.126.9.240",
+            "target": "81.57.117.150"
+        }
+    ]
+}
